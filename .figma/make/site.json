@@ -1,0 +1,14 @@
+{
+  "title": "Elmivet",
+  "description": "Elmivet website",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.png"
+  },
+  "openGraph": {
+    "image": "/og-image.png"
+  }
+}
